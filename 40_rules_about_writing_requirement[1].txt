@@ -1,0 +1,247 @@
+Sure, here is a guide with 40 rules for writing requirements, aligned with the principles and best practices advocated by the International Council on Systems Engineering (INCOSE):
+
+### Panduan INCOSE untuk Menulis Persyaratan
+
+#### 1. **Bahasa yang Jelas dan Ringkas**
+   - Gunakan bahasa yang sederhana dan langsung. Hindari istilah khusus dan kalimat yang kompleks.
+
+#### 2. **Kalimat Lengkap**
+   - Tulis persyaratan sebagai kalimat lengkap dengan subjek dan predikat.
+
+#### 3. **Pernyataan yang Dapat Diuji**
+   - Pastikan setiap persyaratan dapat diverifikasi melalui inspeksi, analisis, demonstrasi, atau uji coba.
+
+#### 4. **Terminologi yang Konsisten**
+   - Gunakan terminologi yang konsisten di seluruh dokumen. Tentukan istilah-istilah dalam glosarium jika diperlukan.
+
+#### 5. **Identifikasi Unik**
+   - Berikan pengidentifikasi unik untuk setiap persyaratan untuk pelacakan.
+
+#### 6. **Persyaratan Tunggal**
+   - Nyatakan setiap persyaratan secara individual, hindari penggunaan konjungsi seperti "dan" atau "atau".
+
+#### 7. **Pernyataan Positif**
+   - Sampaikan persyaratan secara positif, menyatakan apa yang sistem harus lakukan daripada apa yang seharusnya tidak dilakukan.
+
+#### 8. **Kebutuhan**
+   - Pastikan setiap persyaratan diperlukan agar sistem mencapai tujuannya.
+
+#### 9. **Kelayakan**
+   - Verifikasi bahwa setiap persyaratan dapat dilakukan dengan teknologi dan sumber daya yang tersedia.
+
+#### 10. **Bahasa yang Tidak Ambigu**
+   - Gunakan istilah yang tepat untuk menghilangkan ambigu. Hindari kata-kata samar seperti "mendukung," "menangani," dan "dll."
+
+#### 11. **Struktur yang Konsisten**
+   - Gunakan struktur dan format yang konsisten untuk semua persyaratan untuk meningkatkan keterbacaan dan pemahaman.
+
+#### 12. **Jenis Persyaratan**
+   - Jelaskan perbedaan antara persyaratan fungsional, kinerja, antarmuka, dan jenis persyaratan lainnya.
+
+#### 13. **Hindari Detail Implementasi**
+   - Fokus pada apa yang sistem harus lakukan, bukan bagaimana cara melakukannya.
+
+#### 14. **Pelacakan**
+   - Pastikan setiap persyaratan dapat dilacak kembali ke kebutuhan pengguna atau persyaratan tingkat lebih tinggi.
+
+#### 15. **Prioritas**
+   - Prioritaskan persyaratan untuk memandu upaya implementasi.
+
+#### 16. **Pengukuran Kuantitatif**
+   - Gunakan kuantitas yang dapat diukur jika memungkinkan (misalnya, "Sistem harus memproses 100 transaksi per detik").
+
+#### 17. **Stabilitas Persyaratan**
+   - Hindari mengubah persyaratan secara sering; pastikan mereka stabil sebelum disetujui.
+
+#### 18. **Review Stakeholder**
+   - Mintalah pemangku kepentingan untuk meninjau persyaratan untuk memastikan memenuhi kebutuhan mereka.
+
+#### 19. **Bebas Konflik**
+   - Pastikan persyaratan tidak bertentangan satu sama lain.
+
+#### 20. **Tidak Ada Duplikasi**
+   - Hindari menggandakan persyaratan. Setiap persyaratan harus disebutkan sekali.
+
+#### 21. **Gunakan Kalimat Aktif**
+   - Tulis persyaratan dalam kalimat aktif untuk dengan jelas menunjukkan subjek yang melakukan tindakan.
+
+#### 22. **Ketepatan**
+   - Pastikan semua persyaratan secara akurat menggambarkan kemampuan yang diperlukan.
+
+#### 23. **Set Lengkap**
+   - Pastikan set persyaratan menggambarkan sepenuhnya perilaku sistem yang diperlukan dan batasannya.
+
+#### 24. **Kemudahan Modifikasi**
+   - Tulis persyaratan agar dapat dimodifikasi dengan mudah tanpa memengaruhi yang lain.
+
+#### 25. **Hindari Ambiguitas**
+   - Hindari istilah seperti "meminimalkan," "memaksimalkan," "efisien," kecuali jika mereka didefinisikan dengan jelas.
+
+#### 26. **Standar Referensi**
+   - Cantumkan standar dan peraturan yang berlaku untuk memastikan kepatuhan.
+
+#### 27. **Pertimbangan Lingkungan**
+   - Sertakan persyaratan untuk lingkungan operasional, seperti rentang suhu dan tingkat kelembaban.
+
+#### 28. **Persyaratan Keselamatan**
+   - Tentukan persyaratan terkait keselamatan, termasuk sistem pengaman dan protokol darurat.
+
+#### 29. **Persyaratan Keamanan**
+   - Tentukan persyaratan untuk tindakan keamanan, seperti enkripsi data dan kontrol akses.
+
+#### 30. **Kemudahan Penggunaan**
+   - Sertakan persyaratan untuk antarmuka pengguna dan pengalaman pengguna untuk memastikan sistem ramah pengguna.
+
+#### 31. **Kemudahan Pemeliharaan**
+   - Alamatkan persyaratan pemeliharaan untuk memastikan sistem dapat dipelihara dengan efisien.
+
+#### 32. **Keandalan**
+   - Tentukan persyaratan keandalan, seperti rata-rata waktu antara kegagalan (MTBF).
+
+#### 33. **Kinerja**
+   - Spesifikasikan persyaratan kinerja, termasuk kecepatan, responsif, dan throughput.
+
+#### 34. **Scalability**
+   - Sertakan persyaratan skalabilitas untuk mengatasi kebutuhan pertumbuhan dan ekspansi di masa depan.
+
+#### 35. **Interoperabilitas**
+   - Pastikan sistem dapat berinteraksi dengan sistem lain, menentukan persyaratan antarmuka.
+
+#### 36. **Kepatuhan**
+   - Pastikan persyaratan mematuhi hukum, peraturan, dan standar yang relevan.
+
+#### 37. **Dokumentasi**
+   - Sertakan persyaratan untuk dokumentasi, seperti manual pengguna dan panduan teknis.
+
+#### 38. **Review dan Persetujuan**
+   - Tetapkan proses untuk meninjau dan menyetujui persyaratan dengan pemangku kepentingan.
+
+#### 39. **Manajemen Perubahan**
+   - Tentukan proses untuk mengelola perubahan pada persyaratan.
+
+#### 40. **Dukungan Alat**
+   - Gunakan alat manajemen persyaratan untuk memelihara, melacak, dan menganalisis persyaratan.
+
+### INCOSE Guide for Writing Requirements
+
+#### 1. **Clear and Concise Language**
+   - Use simple, straightforward language. Avoid jargon and complex sentences.
+
+#### 2. **Complete Sentences**
+   - Write requirements as complete sentences with a subject and predicate.
+
+#### 3. **Testable Statements**
+   - Ensure each requirement is verifiable through inspection, analysis, demonstration, or test.
+
+#### 4. **Consistent Terminology**
+   - Use consistent terminology throughout the document. Define terms in a glossary if needed.
+
+#### 5. **Unique Identification**
+   - Assign a unique identifier to each requirement for traceability.
+
+#### 6. **Singular Requirements**
+   - State each requirement individually, avoiding the use of conjunctions like "and" or "or".
+
+#### 7. **Positive Statements**
+   - Phrase requirements positively, stating what the system should do rather than what it should not do.
+
+#### 8. **Necessity**
+   - Ensure that each requirement is necessary for the system to meet its objectives.
+
+#### 9. **Feasibility**
+   - Verify that each requirement is feasible given the available technology and resources.
+
+#### 10. **Unambiguous Language**
+   - Use precise terms to eliminate ambiguity. Avoid vague words like "support," "handle," and "etc."
+
+#### 11. **Consistent Structure**
+   - Use a consistent structure and format for all requirements to enhance readability and understanding.
+
+#### 12. **Requirement Type**
+   - Clearly distinguish between functional, performance, interface, and other types of requirements.
+
+#### 13. **Avoid Implementation Details**
+   - Focus on what the system should do, not how it should do it.
+
+#### 14. **Traceability**
+   - Ensure that each requirement can be traced back to a user need or higher-level requirement.
+
+#### 15. **Prioritization**
+   - Prioritize requirements to guide implementation efforts.
+
+#### 16. **Quantitative Measures**
+   - Use measurable quantities wherever possible (e.g., "The system shall process 100 transactions per second").
+
+#### 17. **Requirement Stability**
+   - Avoid changing requirements frequently; ensure they are stable before baselining.
+
+#### 18. **Stakeholder Review**
+   - Have stakeholders review requirements to ensure they meet their needs.
+
+#### 19. **Conflict-Free**
+   - Ensure requirements do not conflict with each other.
+
+#### 20. **No Duplication**
+   - Avoid duplicating requirements. Each should be stated once.
+
+#### 21. **Use Active Voice**
+   - Write requirements in the active voice to clearly indicate the subject performing the action.
+
+#### 22. **Correctness**
+   - Ensure all requirements accurately describe the necessary capabilities.
+
+#### 23. **Complete Set**
+   - Ensure that the set of requirements completely describes the necessary system behavior and constraints.
+
+#### 24. **Modifiability**
+   - Write requirements so they can be easily modified without affecting others.
+
+#### 25. **Avoid Ambiguities**
+   - Avoid terms like "minimize," "maximize," "efficient," unless they are clearly defined.
+
+#### 26. **Reference Standards**
+   - Reference applicable standards and regulations to ensure compliance.
+
+#### 27. **Environmental Considerations**
+   - Include requirements for operating environments, such as temperature ranges and humidity levels.
+
+#### 28. **Safety Requirements**
+   - Specify requirements related to safety, including fail-safes and emergency protocols.
+
+#### 29. **Security Requirements**
+   - Define requirements for security measures, such as data encryption and access controls.
+
+#### 30. **Usability**
+   - Include requirements for user interface and user experience to ensure the system is user-friendly.
+
+#### 31. **Maintainability**
+   - Address maintainability requirements to ensure the system can be efficiently maintained.
+
+#### 32. **Reliability**
+   - Define reliability requirements, such as mean time between failures (MTBF).
+
+#### 33. **Performance**
+   - Specify performance requirements, including speed, responsiveness, and throughput.
+
+#### 34. **Scalability**
+   - Include scalability requirements to address future growth and expansion needs.
+
+#### 35. **Interoperability**
+   - Ensure the system can interact with other systems, specifying interface requirements.
+
+#### 36. **Compliance**
+   - Ensure requirements comply with relevant laws, regulations, and standards.
+
+#### 37. **Documentation**
+   - Include requirements for documentation, such as user manuals and technical guides.
+
+#### 38. **Review and Approval**
+   - Establish a process for reviewing and approving requirements with stakeholders.
+
+#### 39. **Change Management**
+   - Define a process for managing changes to requirements.
+
+#### 40. **Tool Support**
+   - Use requirement management tools to maintain, trace, and analyze requirements.
+
+Following these guidelines will help in creating clear, concise, and comprehensive requirements that are essential for successful system development and project management.
